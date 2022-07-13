@@ -1,7 +1,7 @@
 ### 👏 About me
 
 - I'm currently learning `Natural Language Processing`
-- I majored in Computer Enginerring, at 
+- I majored in Computer Enginerring
 
 ### 🌱 Experiences
 
@@ -11,6 +11,10 @@
 ### 🔭 Tech Stack
 
 I'm currently learning..!
+
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
 
 
 
