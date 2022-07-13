@@ -1,6 +1,7 @@
 ### 👏 About me
 
 - I'm currently learning `Natural Language Processing`
+- I started studying web development and recently I'm studying deep learning.
 - I majored in Computer Enginerring
 
 ### 🌱 Experiences
