@@ -20,6 +20,8 @@ I'm currently learning..!
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 
 
+![](https://github-readme-stats.vercel.app/api?username=Sunjii&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fffed2&text_color=5142c1)
+
 
 <!--
 **Sunjii/Sunjii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
