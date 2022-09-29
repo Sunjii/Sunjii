@@ -8,7 +8,6 @@
 
 - [Naver Boostcamp AI Tech 3기] NLP Track (Jan 2022 ~ Jun 2022)
 - [2022 KDT hackathon] 2nd prize (최우수상)
-- [SNUHVenture] 2022.08 ~ 
 
 ## 🔭 Tech Stack
 
