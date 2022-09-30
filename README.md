@@ -31,7 +31,7 @@ Not the best, but trying my best
 
 <img src="https://user-images.githubusercontent.com/56011433/192934557-45ba109f-074d-4159-a431-841696b3c4b6.gif" width="120"/>
 
-[![wakatime](https://wakatime.com/badge/user/f93286d1-7132-4090-a6d4-1139df2b40d7.svg)](https://wakatime.com/@f93286d1-7132-4090-a6d4-1139df2b40d7)
+<a href="https://wakatime.com/@f93286d1-7132-4090-a6d4-1139df2b40d7"><img src="https://wakatime.com/badge/user/f93286d1-7132-4090-a6d4-1139df2b40d7.svg" alt="Total time coded since Aug 30 2022" /></a>
 ![](https://img.shields.io/badge/SINCE-AUG%2030%202022-brightgreen)
 
 ![](https://github-readme-stats.vercel.app/api?username=Sunjii&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fffed2&text_color=5142c1&count_private=true)
