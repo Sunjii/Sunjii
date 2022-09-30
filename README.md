@@ -2,7 +2,7 @@
 
 - I'm currently learning `Natural Language Processing`
 - I'm studying web development since 2019 and recently I'm studying deep learning and MLOps
-- I majored in Computer Enginerring at 2022.02
+- I majored in Computer Enginerring
 
 ## 🌱 Experiences
 
